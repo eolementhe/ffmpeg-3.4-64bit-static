@@ -61,14 +61,3 @@
              The vmaf filter needs external files to work- see model/000-README.TXT
 
       This static build is licensed under the GNU General Public License version 3.
-
-      If you appreciate this up-to-date build of FFmpeg and my time that goes into to maintaining it,
-      please consider making a donation. Thank you.
-
-      
-      Paypal tinyurl: http://goo.gl/1Ol8N
-      Bitcoin: 1JfPDkULqcqzAnmHQfboa3rXTLVftJJ5qt 
-
-      email: john.vansickle@gmail.com
-      irc: relaxed @ irc://irc.freenode.net #ffmpeg
-      url: http://johnvansickle.com/ffmpeg/
